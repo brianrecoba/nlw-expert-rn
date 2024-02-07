@@ -1,38 +1,42 @@
-<div align="center"> NLW Expert - ReactNative </div>
-<p align="center">
-  <img alt="Logo do Projeto" src="link_para_logo.png" />
-</p>
-Descrição
+# NLW Expert - ReactNative
+
+
+## Descrição
+
 Este é o repositório oficial do projeto desenvolvido na trilha NLW Expert da Rocketseat. O projeto foi construído utilizando React Native, uma framework JavaScript para o desenvolvimento de aplicações móveis.
 
-Funcionalidades
-Funcionalidade 1: Descrição da funcionalidade.
-Funcionalidade 2: Descrição da funcionalidade.
-Funcionalidade 3: Descrição da funcionalidade.
-Tecnologias Utilizadas
-React Native
-Expo
-Outras bibliotecas utilizadas
-Pré-requisitos
+## Funcionalidades
+
+- **Funcionalidade 1:** Selecionar item da list.
+- **Funcionalidade 2:** Adicionar e remover item do carrinho.
+
+## Tecnologias Utilizadas
+
+- React Native
+- Expo
+- Outras bibliotecas utilizadas
+
+## Pré-requisitos
+
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-Node.js
-Yarn (opcional, pode ser utilizado o npm)
-Expo CLI
-Como Rodar o Projeto
-Clone o repositório: git clone https://github.com/seu-usuario/nome-do-projeto.git
-Acesse o diretório do projeto: cd nome-do-projeto
-Instale as dependências: yarn install ou npm install
-Inicie a aplicação: expo start
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) (opcional, pode ser utilizado o npm)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+## Como Rodar o Projeto
+
+1. Clone o repositório: `git clone https://github.com/brianrecoba/nlw-expert-rn.git`
+2. Acesse o diretório do projeto: `cd nome-do-projeto`
+3. Instale as dependências: `yarn install` ou `npm install`
+4. Inicie a aplicação: `expo start`
+
 A aplicação será aberta em seu navegador e você poderá utilizá-la no seu dispositivo físico ou emulador.
 
-Contribuição
+## Contribuição
+
 Sinta-se à vontade para contribuir para o projeto. Faça um fork do repositório, crie uma branch com a sua feature ou correção de bug, e envie um pull request.
 
-Licença
-Este projeto está licenciado sob a Licença XYZ.
+## Licença
 
-Contato
-Seu Nome - seu.email@gmail.com
-Link para o projeto: Nome do Projeto
-Agradecemos por utilizar e contribuir para o projeto!
+Este projeto está licenciado sob a [Licença XYZ](link_para_licenca).
